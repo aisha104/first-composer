@@ -1,0 +1,19 @@
+{
+    "name": "ayesha/first-composer",
+    "description": "A simple test package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ayesha\\FirstComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "john thomas",
+            "email": "jhon111@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
